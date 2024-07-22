@@ -4,23 +4,23 @@
 
 pi:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Team Lead
 
-postdoc:
+Researcher:
   icon: fa-solid fa-glasses
-  description: Postdoctoral Researcher
+  description: Researcher
 
-phd:
+Intern:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Intern
 
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+Engineer:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Engineer
 
 mascot:
   icon: fa-solid fa-dog
