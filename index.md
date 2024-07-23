@@ -17,7 +17,7 @@ Our research
   include button.html
   link="research"
   text="See our publications"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}
@@ -65,7 +65,7 @@ Our team
   include button.html
   link="team"
   text="Meet our team"
-  icon="fa-solid fa-arrow-right"
+  icon="fa-solid fa-arrow-left"
   flip=true
   style="bare"
 %}

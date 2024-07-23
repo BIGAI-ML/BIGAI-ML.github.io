@@ -8,11 +8,11 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@BIGAI-MLDESCRIPTION=An engaging 1-3 sentence description of your lab..com
+  email: dylan.liqing@gmail.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: BIGAI-MLDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: BIGAI-MLDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  github: BIGAI-ML
+  twitter: Sealiqing
   youtube: BIGAI-MLDESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
