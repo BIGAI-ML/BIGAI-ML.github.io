@@ -1,47 +1,47 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: End-to-End Neuro-Symbolic Reinforcement Learning with Textual Explanations
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://liqing.io/assets/img/publication_preview/luo2024insight.png
+  link: https://ins-rl.github.io/
+  description: International Conference on Machine Learning (ICML)
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: VideoAgent:A Memory-augmented Multimodal Agent for Video Understanding
+  subtitle: 
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://liqing.io/assets/img/publication_preview/fan2024videoagent.png
+  link: https://videoagent.github.io/
+  description: European Conference on Computer Vision (ECCV)
   repo: greenelab/lab-website-template
   tags:
     - resource
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: CLOVA:A Closed-Loop Visual Assistant with Tool Usage and Update
+  subtitle: 
+  image: https://liqing.io/assets/img/publication_preview/gao2024clova.png
+  link: https://clova-tool.github.io/
+  description: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   repo: greenelab/lab-website-template
   tags:
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: An Embodied Generalist Agent in 3D World
+  subtitle: 
+  image: https://liqing.io/assets/img/publication_preview/huang2024embodied.png
+  link: https://embodied-generalist.github.io/
+  description: International Conference on Machine Learning (ICML)
   repo: greenelab/lab-website-template
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- title: 3D-VisTA:Pre-trained Transformer for 3D Vision and Text Alignment
+  subtitle: 
+  image: https://liqing.io/assets/img/publication_preview/zhu2023vista.png
+  link: https://3d-vista.github.io/
+  description: International Conference on Computer Vision (ICCV), 2023
   repo: greenelab/lab-website-template
   tags:
     - software

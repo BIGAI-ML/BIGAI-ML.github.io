@@ -2,7 +2,7 @@
 name: Qing Li
 image: images/members/qingli.png
 description: Researcher, Team Lead
-role: Researcher
+role: Researcher, Team Lead
 links:
   email: dylan.liqing@gmail.com
   github: liqing-ustc
