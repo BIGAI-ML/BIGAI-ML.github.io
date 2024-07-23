@@ -1,6 +1,6 @@
 ---
 name: Hongming Xu
-image: images/members/hongmingxu.png
+image: images/members/hongmingxu.jpg
 description: Engineer
 role: Engineer
 links:
