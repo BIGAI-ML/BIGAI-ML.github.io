@@ -1,5 +1,5 @@
 
-# BIGAI-MLDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# BIGAI-ML LAB
 
 Visit **[bigai-ml.github.io](https://bigai-ml.github.io)** 🚀
 
