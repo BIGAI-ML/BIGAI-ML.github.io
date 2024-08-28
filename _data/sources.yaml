@@ -1,114 +1,116 @@
 - id: arxiv:2403.12451
   type: paper
-  description: International Conference on Machine Learning
+  description: 
   date: 2024-03-01
   image: https://liqing.io/assets/img/publication_preview/luo2024insight.png
   buttons:
   - type: website
     link: https://ins-rl.github.io/
-  publisher: ICML
+  publisher: International Conference on Machine Learning (ICML)
+  tags:
+  - spotlight
 
 - id: arxiv:2403.11481
   type: paper
-  description: European Conference on Computer Vision
+  description: 
   date: 2024-03-25
   image: https://liqing.io/assets/img/publication_preview/fan2024videoagent.png
   buttons:
   - type: website
     link: https://videoagent.github.io/
-  publisher: ECCV
+  publisher: European Conference on Computer Vision (ECCV)
 
 - id: arxiv:2405.11442
   type: paper
-  description: European Conference on Computer Vision
+  description: 
   date: 2024-05-01
   image: https://liqing.io/assets/img/publication_preview/zhu2024unifying.png
   buttons:
   - type: website
     link: https://pq3d.github.io/
-  publisher: ECCV
+  publisher: European Conference on Computer Vision (ECCV)
 
 - id: arxiv:2401.09340
   type: paper
-  description: European Conference on Computer Vision
+  description: 
   date: 2024-01-01
   image: https://liqing.io/assets/img/publication_preview/jia2024sceneverse.png
   buttons:
   - type: website
     link: https://scene-verse.github.io/
-  publisher: ECCV
+  publisher: European Conference on Computer Vision (ECCV)
 
 - id: arxiv:2312.10908
   type: paper
-  description: The IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  description: 
   date: 2023-12-01
   image: https://liqing.io/assets/img/publication_preview/gao2024clova.png
   buttons:
   - type: website
     link: https://clova-tool.github.io/
-  publisher: CVPR
+  publisher: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 
 - id: arxiv:2311.12871
   type: paper
-  description: International Conference on Machine Learning
+  description: 
   date: 2023-11-01
   image: https://liqing.io/assets/img/publication_preview/huang2024embodied.png
   buttons:
   - type: website
     link: https://embodied-generalist.github.io/
-  publisher: ICML
+  publisher: International Conference on Machine Learning (ICML)
 
 - id: arxiv:2210.01603
   type: paper
-  description: International Conference on Learning Representations
+  description: 
   date: 2022-10-01
   image: https://liqing.io/assets/img/publication_preview/li2024nsr.png
   buttons:
   - type: website
     link: https://liqing-ustc.github.io/NSR/
-  publisher: ICLR
+  publisher: International Conference on Learning Representations (ICLR)
 
 - id: arxiv:2310.10207
   type: paper
-  description: International Conference on Learning Representations
+  description: 
   date: 2023-10-01
   image: https://liqing.io/assets/img/publication_preview/wu2024bongard.png
   buttons:
   - type: website
     link: https://joyjayng.github.io/Bongard-OpenWorld.github.io/
-  publisher: ICLR
+  publisher: International Conference on Learning Representations (ICLR)
 
 - id: arxiv:2306.15156
   type: paper
-  description: Advances in Neural Information Processing Systems
+  description: 
   date: 2023-06-01
   image: https://liqing.io/assets/img/publication_preview/qin2023learning.png
-  publisher: NeurIPS
+  publisher: Advances in Neural Information Processing Systems (NeurIPS)
 
 - id: arxiv:2103.01403
   type: paper
-  description: International Conference on Learning Representations
+  description: 
   date: 2021-03-01
   image: https://liqing.io/assets/img/publication_preview/li2023hint.png
   buttons:
   - type: website
     link: https://liqing-ustc.github.io/HINT/
-  publisher: ICLR
+  publisher: International Conference on Learning Representations (ICLR)
 
 - id: arxiv:2308.04352
   type: paper
-  description: International Conference on Computer Vision
+  description: 
   date: 2023-08-01
   image: https://liqing.io/assets/img/publication_preview/zhu2023vista.png
   buttons:
   - type: website
     link: https://3d-vista.github.io/
-  publisher: ICCV
+  publisher: International Conference on Computer Vision (ICCV)
   
 - id: arxiv:2210.07474
   type: paper
-  description: International Conference on Learning Representations
-  publisher: ICLR
+  description: 
+  publisher: International Conference on Learning Representations (ICLR)
   date: 2022-10-01
   image: https://liqing.io/assets/img/publication_preview/ma2023sqa3d.png
   buttons:

@@ -9,15 +9,17 @@
   - Yaodong Yang
   - Cong Fang
   - Qing Li
-  publisher: ICML
+  publisher: International Conference on Machine Learning (ICML)
   date: '2024-03-01'
   link: https://arxiv.org/abs/2403.12451
   type: paper
-  description: International Conference on Machine Learning
+  description: null
   image: https://liqing.io/assets/img/publication_preview/luo2024insight.png
   buttons:
   - type: website
     link: https://ins-rl.github.io/
+  tags:
+  - spotlight
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2403.11481
@@ -30,11 +32,11 @@
   - Jiaqi Li
   - Zhi Gao
   - Qing Li
-  publisher: ECCV
+  publisher: European Conference on Computer Vision (ECCV)
   date: '2024-03-25'
   link: https://arxiv.org/abs/2403.11481
   type: paper
-  description: European Conference on Computer Vision
+  description: null
   image: https://liqing.io/assets/img/publication_preview/fan2024videoagent.png
   buttons:
   - type: website
@@ -53,11 +55,11 @@
   - Zhidong Deng
   - Siyuan Huang
   - Qing Li
-  publisher: ECCV
+  publisher: European Conference on Computer Vision (ECCV)
   date: '2024-05-01'
   link: https://arxiv.org/abs/2405.11442
   type: paper
-  description: European Conference on Computer Vision
+  description: null
   image: https://liqing.io/assets/img/publication_preview/zhu2024unifying.png
   buttons:
   - type: website
@@ -75,11 +77,11 @@
   - Tengyu Liu
   - Qing Li
   - Siyuan Huang
-  publisher: ECCV
+  publisher: European Conference on Computer Vision (ECCV)
   date: '2024-01-01'
   link: https://arxiv.org/abs/2401.09340
   type: paper
-  description: European Conference on Computer Vision
+  description: null
   image: https://liqing.io/assets/img/publication_preview/jia2024sceneverse.png
   buttons:
   - type: website
@@ -96,11 +98,11 @@
   - Wenjuan Han
   - Song-Chun Zhu
   - Qing Li
-  publisher: CVPR
+  publisher: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2023-12-01'
   link: https://arxiv.org/abs/2312.10908
   type: paper
-  description: The IEEE/CVF Conference on Computer Vision and Pattern Recognition
+  description: null
   image: https://liqing.io/assets/img/publication_preview/gao2024clova.png
   buttons:
   - type: website
@@ -120,11 +122,11 @@
   - Song-Chun Zhu
   - Baoxiong Jia
   - Siyuan Huang
-  publisher: ICML
+  publisher: International Conference on Machine Learning (ICML)
   date: '2023-11-01'
   link: https://arxiv.org/abs/2311.12871
   type: paper
-  description: International Conference on Machine Learning
+  description: null
   image: https://liqing.io/assets/img/publication_preview/huang2024embodied.png
   buttons:
   - type: website
@@ -140,11 +142,11 @@
   - Ying Nian Wu
   - Song-Chun Zhu
   - Siyuan Huang
-  publisher: ICLR
+  publisher: International Conference on Learning Representations (ICLR)
   date: '2022-10-01'
   link: https://arxiv.org/abs/2210.01603
   type: paper
-  description: International Conference on Learning Representations
+  description: null
   image: https://liqing.io/assets/img/publication_preview/li2024nsr.png
   buttons:
   - type: website
@@ -162,11 +164,11 @@
   - Qing Li
   - Song-Chun Zhu
   - Yizhou Wang
-  publisher: ICLR
+  publisher: International Conference on Learning Representations (ICLR)
   date: '2023-10-01'
   link: https://arxiv.org/abs/2310.10207
   type: paper
-  description: International Conference on Learning Representations
+  description: null
   image: https://liqing.io/assets/img/publication_preview/wu2024bongard.png
   buttons:
   - type: website
@@ -181,11 +183,11 @@
   - Qing Li
   - Song-Chun Zhu
   - Sirui Xie
-  publisher: NeurIPS
+  publisher: Advances in Neural Information Processing Systems (NeurIPS)
   date: '2023-06-01'
   link: https://arxiv.org/abs/2306.15156
   type: paper
-  description: Advances in Neural Information Processing Systems
+  description: null
   image: https://liqing.io/assets/img/publication_preview/qin2023learning.png
   plugin: sources.py
   file: sources.yaml
@@ -199,11 +201,11 @@
   - Yixin Zhu
   - Ying Nian Wu
   - Song-Chun Zhu
-  publisher: ICLR
+  publisher: International Conference on Learning Representations (ICLR)
   date: '2021-03-01'
   link: https://arxiv.org/abs/2103.01403
   type: paper
-  description: International Conference on Learning Representations
+  description: null
   image: https://liqing.io/assets/img/publication_preview/li2023hint.png
   buttons:
   - type: website
@@ -219,11 +221,11 @@
   - Zhidong Deng
   - Siyuan Huang
   - Qing Li
-  publisher: ICCV
+  publisher: International Conference on Computer Vision (ICCV)
   date: '2023-08-01'
   link: https://arxiv.org/abs/2308.04352
   type: paper
-  description: International Conference on Computer Vision
+  description: null
   image: https://liqing.io/assets/img/publication_preview/zhu2023vista.png
   buttons:
   - type: website
@@ -240,11 +242,11 @@
   - Yitao Liang
   - Song-Chun Zhu
   - Siyuan Huang
-  publisher: ICLR
+  publisher: International Conference on Learning Representations (ICLR)
   date: '2022-10-01'
   link: https://arxiv.org/abs/2210.07474
   type: paper
-  description: International Conference on Learning Representations
+  description: null
   image: https://liqing.io/assets/img/publication_preview/ma2023sqa3d.png
   buttons:
   - type: website

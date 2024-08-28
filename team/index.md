@@ -1,13 +1,13 @@
 ---
 title: Team
 nav:
-  order: 3
+  order: 1
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Team
+# {% include icon.html icon="fa-solid fa-users" %}
 
-Full time
+# Full time
 
 {% include section.html %}
 
@@ -17,7 +17,7 @@ Full time
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Intern
+# Intern
 
 {% include section.html %}
 

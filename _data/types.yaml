@@ -3,27 +3,27 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-microscope
+  # icon: fa-solid fa-microscope
   description: Team Lead
 
 Researcher:
-  icon: fa-solid fa-glasses
+  # icon: fa-solid fa-glasses
   description: Researcher
 
 Intern:
-  icon: fa-solid fa-graduation-cap
+  # icon: fa-solid fa-graduation-cap
   description: Intern
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  # icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
 Engineer:
-  icon: fa-solid fa-code
+  # icon: fa-solid fa-code
   description: Engineer
 
 mascot:
-  icon: fa-solid fa-dog
+  # icon: fa-solid fa-dog
   description: Mascot
 
 # general

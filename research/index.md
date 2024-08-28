@@ -1,13 +1,12 @@
 ---
-title: Research
+title: Publications
 nav:
-  order: 1
+  order: 2
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Publications
 
-Our Paper
 
 {% include section.html %}
 

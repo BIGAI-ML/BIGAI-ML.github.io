@@ -11,7 +11,7 @@
 
 {% capture text %}
 
-Our research 
+Our publications
 
 {%
   include button.html
@@ -26,20 +26,20 @@ Our research
 
 {%
   include feature.html
-  image="images/research.jpg"
+  image="https://liqing.io/assets/img/publication_preview/gao2024clova.png"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
 {% capture text %}
 
-Our Project
+Our Gallery
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our gallery"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Our Project
 
 {%
   include feature.html
-  image="https://liqing.io/assets/img/publication_preview/gao2024clova.png"
+  image="images/gallery/4.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Gallery"
   flip=true
   style="bare"
   text=text
