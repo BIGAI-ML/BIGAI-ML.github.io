@@ -1,69 +1,134 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: arxiv:2403.12451
-  title: End-to-End Neuro-Symbolic Reinforcement Learning with Textual Explanations
+- id: arxiv:2302.01560
+  title: 'Describe, Explain, Plan and Select: Interactive Planning with Large Language
+    Models Enables Open-World Multi-Task Agents'
   authors:
-  - Lirui Luo
-  - Guoxi Zhang
-  - Hongming Xu
+  - Zihao Wang
+  - Shaofei Cai
+  - Guanzhou Chen
+  - Anji Liu
+  - Xiaojian Ma
+  - Yitao Liang
+  publisher: Advances in Neural Information Processing Systems (NeurIPS)
+  date: '2023-01-01'
+  link: https://arxiv.org/abs/2302.01560
+  type: paper
+  buttons:
+  - type: website
+    link: https://github.com/craftJarvis/mc-planner?tab=readme-ov-file
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2311.05997
+  title: 'JARVIS-1: Open-World Multi-task Agents with Memory-Augmented Multimodal
+    Language Models'
+  authors:
+  - Zihao Wang
+  - Shaofei Cai
+  - Anji Liu
+  - Yonggang Jin
+  - Jinbing Hou
+  - Bowei Zhang
+  - Haowei Lin
+  - Zhaofeng He
+  - Zilong Zheng
   - Yaodong Yang
-  - Cong Fang
-  - Qing Li
-  publisher: International Conference on Machine Learning (ICML)
-  date: '2024-03-01'
-  link: https://arxiv.org/abs/2403.12451
-  type: paper
-  description: null
-  image: https://liqing.io/assets/img/publication_preview/luo2024insight.png
+  - Xiaojian Ma
+  - Yitao Liang
+  publisher: Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  date: '2024-01-01'
+  link: https://arxiv.org/abs/2311.05997
+  type: journal
+  image: https://craftjarvis-jarvis1.github.io/images/architecture.png
   buttons:
   - type: website
-    link: https://ins-rl.github.io/
-  tags:
-  - spotlight
+    link: https://craftjarvis-jarvis1.github.io/
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2403.11481
-  title: 'VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding'
+- id: doi:10.1109/TPAMI.2022.3164894
+  title: Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data
   authors:
-  - Yue Fan
-  - Xiaojian Ma
-  - Rujie Wu
-  - Yuntao Du
-  - Jiaqi Li
   - Zhi Gao
-  - Qing Li
-  publisher: European Conference on Computer Vision (ECCV)
-  date: '2024-03-25'
-  link: https://arxiv.org/abs/2403.11481
-  type: paper
-  description: null
-  image: https://liqing.io/assets/img/publication_preview/fan2024videoagent.png
+  - Yuwei Wu
+  - Mehrtash Harandi
+  - Yunde Jia
+  publisher: Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  date: '2023-01-01'
+  link: https://doi.org/gs7ftb
+  type: journal
   buttons:
   - type: website
-    link: https://videoagent.github.io/
+    link: https://drive.google.com/file/d/1h9sGfF_azEkRPJvYNwinGTmE8nNCEDcZ/view
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2405.11442
-  title: Unifying 3D Vision-Language Understanding via Promptable Queries
+- id: doi:10.1109/TPAMI.2022.3215702
+  title: Learning to Optimize on Riemannian Manifolds
   authors:
-  - Ziyu Zhu
-  - Zhuofan Zhang
-  - Xiaojian Ma
-  - Xuesong Niu
-  - Yixin Chen
-  - Baoxiong Jia
-  - Zhidong Deng
-  - Siyuan Huang
-  - Qing Li
-  publisher: European Conference on Computer Vision (ECCV)
-  date: '2024-05-01'
-  link: https://arxiv.org/abs/2405.11442
-  type: paper
-  description: null
-  image: https://liqing.io/assets/img/publication_preview/zhu2024unifying.png
+  - Zhi Gao
+  - Yuwei Wu
+  - Xiaomeng Fan
+  - Mehrtash Harandi
+  - Yunde Jia
+  publisher: Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  date: '2023-01-01'
+  link: https://doi.org/grpb7w
+  type: journal
   buttons:
   - type: website
-    link: https://pq3d.github.io/
+    link: https://drive.google.com/file/d/1OCfsMvEFgzjam8SRyI8SanckLIiSJWvN/view
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2304.03709
+  title: Meta-causal Learning for Single Domain Generalization
+  authors:
+  - Jin Chen
+  - Zhi Gao
+  - Xinxiao Wu
+  - Jiebo Luo
+  publisher: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2023-01-01'
+  link: https://arxiv.org/abs/2304.03709
+  type: paper
+  buttons:
+  - type: website
+    link: https://arxiv.org/abs/2304.03709
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2210.01603
+  title: Neural-Symbolic Recursive Machine for Systematic Generalization
+  authors:
+  - Qing Li
+  - Yixin Zhu
+  - Yitao Liang
+  - Ying Nian Wu
+  - Song-Chun Zhu
+  - Siyuan Huang
+  publisher: International Conference on Learning Representations (ICLR)
+  date: '2024-01-01'
+  link: https://arxiv.org/abs/2210.01603
+  type: paper
+  image: https://liqing.io/assets/img/publication_preview/li2024nsr.png
+  buttons:
+  - type: website
+    link: https://liqing-ustc.github.io/NSR/
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2306.15156
+  title: Learning non-Markovian Decision-Making from State-only Sequences
+  authors:
+  - Aoyang Qin
+  - Feng Gao
+  - Qing Li
+  - Song-Chun Zhu
+  - Sirui Xie
+  publisher: Advances in Neural Information Processing Systems (NeurIPS)
+  date: '2023-01-01'
+  link: https://arxiv.org/abs/2306.15156
+  type: paper
+  image: https://liqing.io/assets/img/publication_preview/qin2023learning.png
+  buttons:
+  - type: website
+    link: https://arxiv.org/abs/2306.15156
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2401.09340
@@ -81,32 +146,51 @@
   date: '2024-01-01'
   link: https://arxiv.org/abs/2401.09340
   type: paper
-  description: null
   image: https://liqing.io/assets/img/publication_preview/jia2024sceneverse.png
   buttons:
   - type: website
     link: https://scene-verse.github.io/
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2312.10908
-  title: 'CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update'
+- id: arxiv:2210.07474
+  title: 'SQA3D: Situated Question Answering in 3D Scenes'
   authors:
-  - Zhi Gao
-  - Yuntao Du
-  - Xintong Zhang
   - Xiaojian Ma
-  - Wenjuan Han
-  - Song-Chun Zhu
+  - Silong Yong
+  - Zilong Zheng
   - Qing Li
-  publisher: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
-  date: '2023-12-01'
-  link: https://arxiv.org/abs/2312.10908
+  - Yitao Liang
+  - Song-Chun Zhu
+  - Siyuan Huang
+  publisher: International Conference on Learning Representations (ICLR)
+  date: '2023-01-01'
+  link: https://arxiv.org/abs/2210.07474
   type: paper
-  description: null
-  image: https://liqing.io/assets/img/publication_preview/gao2024clova.png
+  image: https://liqing.io/assets/img/publication_preview/ma2023sqa3d.png
   buttons:
   - type: website
-    link: https://clova-tool.github.io/
+    link: https://sqa3d.github.io/
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2403.12451
+  title: End-to-End Neuro-Symbolic Reinforcement Learning with Textual Explanations
+  authors:
+  - Lirui Luo
+  - Guoxi Zhang
+  - Hongming Xu
+  - Yaodong Yang
+  - Cong Fang
+  - Qing Li
+  publisher: International Conference on Machine Learning (ICML)
+  date: '2024-01-01'
+  link: https://arxiv.org/abs/2403.12451
+  type: paper
+  image: https://liqing.io/assets/img/publication_preview/luo2024insight.png
+  buttons:
+  - type: website
+    link: https://ins-rl.github.io/
+  tags:
+  - spotlight
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2311.12871
@@ -123,34 +207,132 @@
   - Baoxiong Jia
   - Siyuan Huang
   publisher: International Conference on Machine Learning (ICML)
-  date: '2023-11-01'
+  date: '2024-01-01'
   link: https://arxiv.org/abs/2311.12871
   type: paper
-  description: null
   image: https://liqing.io/assets/img/publication_preview/huang2024embodied.png
   buttons:
   - type: website
     link: https://embodied-generalist.github.io/
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2210.01603
-  title: Neural-Symbolic Recursive Machine for Systematic Generalization
+- id: arxiv:2309.07915
+  title: 'MMICL: Empowering Vision-language Model with Multi-Modal In-Context Learning'
   authors:
-  - Qing Li
-  - Yixin Zhu
-  - Yitao Liang
-  - Ying Nian Wu
-  - Song-Chun Zhu
-  - Siyuan Huang
+  - Haozhe Zhao
+  - Zefan Cai
+  - Shuzheng Si
+  - Xiaojian Ma
+  - Kaikai An
+  - Liang Chen
+  - Zixuan Liu
+  - Sheng Wang
+  - Wenjuan Han
+  - Baobao Chang
   publisher: International Conference on Learning Representations (ICLR)
-  date: '2022-10-01'
-  link: https://arxiv.org/abs/2210.01603
+  date: '2024-01-01'
+  link: https://arxiv.org/abs/2309.07915
   type: paper
-  description: null
-  image: https://liqing.io/assets/img/publication_preview/li2024nsr.png
   buttons:
   - type: website
-    link: https://liqing-ustc.github.io/NSR/
+    link: https://github.com/PKUnlp-icler/MIC
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2403.11481
+  title: 'VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding'
+  authors:
+  - Yue Fan
+  - Xiaojian Ma
+  - Rujie Wu
+  - Yuntao Du
+  - Jiaqi Li
+  - Zhi Gao
+  - Qing Li
+  publisher: European Conference on Computer Vision (ECCV)
+  date: '2024-01-01'
+  link: https://arxiv.org/abs/2403.11481
+  type: paper
+  image: https://liqing.io/assets/img/publication_preview/fan2024videoagent.png
+  buttons:
+  - type: website
+    link: https://videoagent.github.io/
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2312.10908
+  title: 'CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update'
+  authors:
+  - Zhi Gao
+  - Yuntao Du
+  - Xintong Zhang
+  - Xiaojian Ma
+  - Wenjuan Han
+  - Song-Chun Zhu
+  - Qing Li
+  publisher: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2024-01-01'
+  link: https://arxiv.org/abs/2312.10908
+  type: paper
+  image: https://liqing.io/assets/img/publication_preview/gao2024clova.png
+  buttons:
+  - type: website
+    link: https://clova-tool.github.io/
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2304.03931
+  title: Exploring Data Geometry for Continual Learning
+  authors:
+  - Zhi Gao
+  - Chen Xu
+  - Feng Li
+  - Yunde Jia
+  - Mehrtash Harandi
+  - Yuwei Wu
+  publisher: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2023-01-01'
+  link: https://arxiv.org/abs/2304.03931
+  type: paper
+  buttons:
+  - type: website
+    link: https://arxiv.org/pdf/2304.03931
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2103.01403
+  title: A Minimalist Dataset for Systematic Generalization of Perception, Syntax,
+    and Semantics
+  authors:
+  - Qing Li
+  - Siyuan Huang
+  - Yining Hong
+  - Yixin Zhu
+  - Ying Nian Wu
+  - Song-Chun Zhu
+  publisher: International Conference on Learning Representations (ICLR)
+  date: '2023-01-01'
+  link: https://arxiv.org/abs/2103.01403
+  type: paper
+  image: https://liqing.io/assets/img/publication_preview/li2023hint.png
+  buttons:
+  - type: website
+    link: https://liqing-ustc.github.io/HINT
+  plugin: sources.py
+  file: sources.yaml
+- id: arxiv:2308.04352
+  title: '3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment'
+  authors:
+  - Ziyu Zhu
+  - Xiaojian Ma
+  - Yixin Chen
+  - Zhidong Deng
+  - Siyuan Huang
+  - Qing Li
+  publisher: International Conference on Computer Vision (ICCV)
+  date: '2023-01-01'
+  link: https://arxiv.org/abs/2308.04352
+  type: paper
+  image: https://liqing.io/assets/img/publication_preview/zhu2023vista.png
+  buttons:
+  - type: website
+    link: https://3d-vista.github.io/
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2310.10207
@@ -165,91 +347,12 @@
   - Song-Chun Zhu
   - Yizhou Wang
   publisher: International Conference on Learning Representations (ICLR)
-  date: '2023-10-01'
+  date: '2024-01-01'
   link: https://arxiv.org/abs/2310.10207
   type: paper
-  description: null
   image: https://liqing.io/assets/img/publication_preview/wu2024bongard.png
   buttons:
   - type: website
     link: https://joyjayng.github.io/Bongard-OpenWorld.github.io/
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2306.15156
-  title: Learning non-Markovian Decision-Making from State-only Sequences
-  authors:
-  - Aoyang Qin
-  - Feng Gao
-  - Qing Li
-  - Song-Chun Zhu
-  - Sirui Xie
-  publisher: Advances in Neural Information Processing Systems (NeurIPS)
-  date: '2023-06-01'
-  link: https://arxiv.org/abs/2306.15156
-  type: paper
-  description: null
-  image: https://liqing.io/assets/img/publication_preview/qin2023learning.png
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2103.01403
-  title: A Minimalist Dataset for Systematic Generalization of Perception, Syntax,
-    and Semantics
-  authors:
-  - Qing Li
-  - Siyuan Huang
-  - Yining Hong
-  - Yixin Zhu
-  - Ying Nian Wu
-  - Song-Chun Zhu
-  publisher: International Conference on Learning Representations (ICLR)
-  date: '2021-03-01'
-  link: https://arxiv.org/abs/2103.01403
-  type: paper
-  description: null
-  image: https://liqing.io/assets/img/publication_preview/li2023hint.png
-  buttons:
-  - type: website
-    link: https://liqing-ustc.github.io/HINT/
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2308.04352
-  title: '3D-VisTA: Pre-trained Transformer for 3D Vision and Text Alignment'
-  authors:
-  - Ziyu Zhu
-  - Xiaojian Ma
-  - Yixin Chen
-  - Zhidong Deng
-  - Siyuan Huang
-  - Qing Li
-  publisher: International Conference on Computer Vision (ICCV)
-  date: '2023-08-01'
-  link: https://arxiv.org/abs/2308.04352
-  type: paper
-  description: null
-  image: https://liqing.io/assets/img/publication_preview/zhu2023vista.png
-  buttons:
-  - type: website
-    link: https://3d-vista.github.io/
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2210.07474
-  title: 'SQA3D: Situated Question Answering in 3D Scenes'
-  authors:
-  - Xiaojian Ma
-  - Silong Yong
-  - Zilong Zheng
-  - Qing Li
-  - Yitao Liang
-  - Song-Chun Zhu
-  - Siyuan Huang
-  publisher: International Conference on Learning Representations (ICLR)
-  date: '2022-10-01'
-  link: https://arxiv.org/abs/2210.07474
-  type: paper
-  description: null
-  image: https://liqing.io/assets/img/publication_preview/ma2023sqa3d.png
-  buttons:
-  - type: website
-    link: https://sqa3d.github.io/
   plugin: sources.py
   file: sources.yaml
