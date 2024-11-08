@@ -1,8 +1,8 @@
 ---
 name: Yuntao Du
 image: images/members/yuntaodu.jpg
-description: Engineer
-role: Engineer
+description: Researcher
+role: Researcher
 links:
   email: duyuntao@bigai.ai
   github: yuntaodu

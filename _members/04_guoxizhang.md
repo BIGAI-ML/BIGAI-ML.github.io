@@ -1,8 +1,8 @@
 ---
 name: Guoxi Zhang
 image: images/members/guoxizhang.jpg
-description: Engineer
-role: Engineer
+description: Researcher
+role: Researcher
 links:
   email: Altriaex86@gmail.com
   github: Altriaex
