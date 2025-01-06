@@ -78,3 +78,33 @@ nav:
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3%}
+
+## Talk
+
+{% capture talk1 %}
+<figure style="max-width: 500px; margin: auto;">
+  <iframe
+    src="//player.bilibili.com/player.html?isOutside=true&aid=113779236933601&bvid=BV1VurVYzEXZ&cid=27725007364&p=1"
+    scrolling="no"
+    frameborder="no"
+    allowfullscreen="true"
+    style="width: 100%; height: 300px;"
+  ></iframe>
+  <figcaption>Whole Body Control</figcaption>
+</figure>
+{% endcapture %}
+
+{% capture talk2 %}
+<figure style="max-width: 500px; margin: auto;">
+  <iframe
+    src="//player.bilibili.com/player.html?isOutside=true&aid=113779270486904&bvid=BV1EFrVY1EaH&cid=27725072288&p=1"
+    scrolling="no"
+    frameborder="no"
+    allowfullscreen="true"
+    style="width: 100%; height: 300px;"
+  ></iframe>
+  <figcaption>Long Context Transfer from Language to Vision</figcaption>
+</figure>
+{% endcapture %}
+
+{% include cols.html col1=talk1 col2=talk2 %}
