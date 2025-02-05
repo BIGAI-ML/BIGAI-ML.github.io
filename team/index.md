@@ -11,9 +11,9 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: Researcher" %}
-{% include list.html data="members" component="portrait" filters="role: Engineer" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'Researcher'" %}
+{% include list.html data="members" component="portrait" filter="role == 'Engineer'" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -23,7 +23,7 @@ nav:
 
 {% capture content %}
 
-{% include list.html data="members" component="portrait" filters="role: Intern" %}
+{% include list.html data="members" component="portrait" filter="role == 'Intern'" %}
 
 {% endcapture %}
 
